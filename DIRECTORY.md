@@ -1,6 +1,14 @@
 
 ## Array
+  * [Sorted Squared Array](https://github.com/TheAlgorithms/Dart/blob/master/array/sorted_squared_array.dart)
+  * [Two Sum](https://github.com/TheAlgorithms/Dart/blob/master/array/two_sum.dart)
   * [Validate Subsequence](https://github.com/TheAlgorithms/Dart/blob/master/array/validate_subsequence.dart)
+
+## Backtracking
+  * [Open Knight Tour](https://github.com/TheAlgorithms/Dart/blob/master/backtracking/open_knight_tour.dart)
+
+## Chinese Remainder Theorem
+  * [Chinese Remainder Theorem](https://github.com/TheAlgorithms/Dart/blob/master/chinese_remainder_theorem/chinese_remainder_theorem.dart)
 
 ## Conversions
   * [Binary To Decimal](https://github.com/TheAlgorithms/Dart/blob/master/conversions/binary_to_decimal.dart)
@@ -45,6 +53,7 @@
     * [Linked List Stack](https://github.com/TheAlgorithms/Dart/blob/master/data_structures/Stack/Linked_List_Stack.dart)
 
 ## Dynamic Programming
+  * [01Knapsack Recursive](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/01knapsack_recursive.dart)
   * [Coin Change](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/coin_change.dart)
   * [Kadanes Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/kadanes_algorithm.dart)
   * [Min Number Of Jumps](https://github.com/TheAlgorithms/Dart/blob/master/dynamic_programming/min_number_of_jumps.dart)
@@ -53,8 +62,6 @@
   * [Breadth First Search](https://github.com/TheAlgorithms/Dart/blob/master/graphs/breadth_first_search.dart)
   * [Depth First Search](https://github.com/TheAlgorithms/Dart/blob/master/graphs/depth_first_search.dart)
   * [Nearest Neighbour Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/graphs/nearest_neighbour_algorithm.dart)
-
-## [Magic Number](https://github.com/TheAlgorithms/Dart/blob/master//magic_number.dart)
 
 ## Maths
   * [Abs](https://github.com/TheAlgorithms/Dart/blob/master/maths/abs.dart)
@@ -96,8 +103,6 @@
   * [Symmetric Derivative](https://github.com/TheAlgorithms/Dart/blob/master/maths/symmetric_derivative.dart)
   * [Ugly Numbers](https://github.com/TheAlgorithms/Dart/blob/master/maths/Ugly_numbers.dart)
 
-## [N Bonacci](https://github.com/TheAlgorithms/Dart/blob/master//N_bonacci.dart)
-
 ## Other
   * [Ackermann](https://github.com/TheAlgorithms/Dart/blob/master/other/ackermann.dart)
   * [Binpow](https://github.com/TheAlgorithms/Dart/blob/master/other/binpow.dart)
@@ -109,7 +114,9 @@
   * [Heaps Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/other/heaps_algorithm.dart)
   * [Kadanealgo](https://github.com/TheAlgorithms/Dart/blob/master/other/kadaneAlgo.dart)
   * [Lcm](https://github.com/TheAlgorithms/Dart/blob/master/other/LCM.dart)
+  * [Magic Number](https://github.com/TheAlgorithms/Dart/blob/master/other/magic_number.dart)
   * [Moore Voting Algorithm](https://github.com/TheAlgorithms/Dart/blob/master/other/Moore_voting_algorithm.dart)
+  * [N Bonacci](https://github.com/TheAlgorithms/Dart/blob/master/other/N_bonacci.dart)
   * [Swap All Odd And Even Bits](https://github.com/TheAlgorithms/Dart/blob/master/other/swap_all_odd_and_even_bits.dart)
   * [Tower Of Hanoi](https://github.com/TheAlgorithms/Dart/blob/master/other/tower_of_hanoi.dart)
 
